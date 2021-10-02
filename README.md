@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @tomaszburas
+<h1>👋 Hi, I’m Tomasz</h1>
 i'm looking for a my first real job as a javascript/node.js dev. i can learn new stuff if it's required.
 
-technologies i used
+<b>technologies i used</b>
 
 <ul>
   <li>javascript</li>
