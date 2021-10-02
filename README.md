@@ -8,7 +8,6 @@
 <ul>
   <li>javascript</li>
   <li>node.js</li>
-  <li>express.js</li>
   <li>html</li>
   <li>scss</li>
   <li>rest api</li>
