@@ -3,7 +3,8 @@ i'm looking for a my first real job as a javascript/node.js dev. i can learn new
 </br>
 </br>
 <b>technologies i used:</b>
-
+</br>
+</br>
 <ul>
   <li>javascript</li>
   <li>node.js</li>
