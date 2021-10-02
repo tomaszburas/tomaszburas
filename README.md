@@ -3,13 +3,15 @@ i'm looking for a my first real job as a javascript/node.js dev. i can learn new
 
 technologies i used
 
-javascript
-node.js
-express.js
-html
-scss
-rest api
-git, github
-adobe ps, ai, xd
+<ul>
+  <li>javascript</li>
+  <li>node.js</li>
+  <li>express.js</li>
+  <li>html</li>
+  <li>scss</li>
+  <li>rest api</li>
+  <li>git, github</li>
+  <li>adobe ps, ai, xd</li>
+</ul>
 
-got a project? let's talk!
+<b>got a project? let's talk!</b>
