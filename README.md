@@ -1,5 +1,5 @@
-<h1>👋 Hi, I’m Tomasz</h1>
-i'm looking for a my first real job as a javascript/node.js dev. i can learn new stuff if it's required.
+<h1>👋 Hi, I’m Tomasz, JavaScript Developer</h1>
+<!-- i'm looking for a my first real job as a javascript/node.js dev. i can learn new stuff if it's required. -->
 </br>
 </br>
 <b>technologies i used:</b>
