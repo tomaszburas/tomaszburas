@@ -10,4 +10,4 @@
 * git, github
 * adobe ps, ai, xd
 
-**got a project? let's talk!**
+<!-- **got a project? let's talk!** -->
