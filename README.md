@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Tomasz, JavaScript Developer
+# 👋 Hi, I’m Tomasz, Beginner JavaScript Developer
 <!-- i'm looking for a my first real job as a javascript/node.js dev. i can learn new stuff if it's required. -->
 
 **technologies i used:**
