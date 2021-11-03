@@ -6,6 +6,7 @@
 * javascript
 * node.js
 * express.js
+* rest api
 * html
 * scss
 * git, github
