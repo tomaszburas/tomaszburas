@@ -4,8 +4,10 @@
 **technologies i used:**
 
 * javascript
+* typescript
 * node.js
 * express.js
+* Sql / noSql
 * rest api
 * html
 * scss
