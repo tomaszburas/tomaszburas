@@ -5,8 +5,9 @@
 
 * javascript
 * typescript
-* node.js
-* express.js
+* node
+* express
+* react
 * Sql / noSql
 * rest api
 * html
