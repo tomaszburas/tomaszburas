@@ -5,8 +5,8 @@
 
 * javascript
 * typescript
-* node
-* express
+* node.js
+* express.js
 * react
 * Sql / noSql
 * rest api
@@ -14,5 +14,6 @@
 * scss
 * git, github
 * adobe ps, ai, xd
+* figma
 
 <!-- **got a project? let's talk!** -->
