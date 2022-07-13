@@ -1,11 +1,11 @@
 ## 👋 Hi, I’m Tomasz, Beginner Full Stack Developer
-<!-- i'm looking for a my first real job as a javascript/node.js dev. i can learn new stuff if it's required. -->
 
 **technologies i used:**
 
 * javascript
 * typescript
 * node.js
+* nest.js
 * express.js
 * react
 * Sql / noSql
@@ -16,4 +16,4 @@
 * adobe ps, ai, xd
 * figma
 
-<!-- **got a project? let's talk!** -->
+**got a project? let's talk!**
