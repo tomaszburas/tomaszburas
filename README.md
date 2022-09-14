@@ -15,5 +15,3 @@
 * git, github
 * adobe ps, ai, xd
 * figma
-
-**got a project? let's talk!**
