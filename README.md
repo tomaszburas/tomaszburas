@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Tomasz, Junior Full Stack Developer
+## 👋 Hi, I’m Tomasz, Full Stack Developer
 
 **technologies i used:**
 
