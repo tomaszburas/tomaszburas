@@ -8,6 +8,7 @@
 * nest.js
 * express.js
 * react
+* next.js
 * Sql / noSql
 * rest api
 * html
