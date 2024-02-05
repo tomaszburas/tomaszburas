@@ -13,6 +13,6 @@
 * rest api
 * html
 * scss
+* tailwindcss
 * git, github
-* adobe ps, ai, xd
 * figma
