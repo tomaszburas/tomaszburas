@@ -16,3 +16,5 @@
 * tailwindcss
 * git, github
 * figma
+
+contact: tomaszburas.dev@gmail.com
