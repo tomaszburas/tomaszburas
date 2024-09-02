@@ -9,7 +9,7 @@
 * express.js
 * react
 * next.js
-* Sql / noSql
+* sql / nosql
 * rest api
 * graphql
 * html
