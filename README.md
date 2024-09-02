@@ -11,10 +11,9 @@
 * next.js
 * Sql / noSql
 * rest api
+* graphql
 * html
 * scss
 * tailwindcss
-* git, github
-* figma
 
 contact: tomaszburas.dev@gmail.com
