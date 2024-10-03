@@ -15,5 +15,6 @@
 * html
 * scss
 * tailwindcss
+* medusa.js
 
 contact: tomaszburas.dev@gmail.com
