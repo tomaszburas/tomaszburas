@@ -3,6 +3,7 @@
 **technologies i used:**
 
 **Frontend:** JavaScript, TypeScript, React, Next.js, HTML, SCSS, Tailwind CSS
+
 **Backend:** Node.js, Nest.js, Express.js, REST API, GraphQL, event-driven architecture, microservices
 **Databases:** PostgreSQL, Redis, SQL, NoSQL
 **Queues & Async:** BullMQ, Redis
