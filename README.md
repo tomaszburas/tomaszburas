@@ -1,7 +1,7 @@
 ### Hi, I'm Tomasz 👋
 
 Fullstack Developer based in Kielce, Poland. I build event-driven e-commerce 
-platforms — mostly Medusa.js, Nest.js, Next.js, PostgreSQL. Open-source 
+platforms - mostly Medusa.js, Nest.js, Next.js, PostgreSQL. Open-source 
 contributor to [Mercur.js](https://github.com/mercurjs/mercur), a multi-vendor 
 marketplace on top of Medusa.
 
